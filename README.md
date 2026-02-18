@@ -18,6 +18,21 @@ Bluetooth-Based-Wireless-Notice-Board/
 
 ---
 
+## 📷 Project Media
+
+### Block Diagram
+![Block Diagram](images/block_diagram.png)
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit_diagram.png)
+
+### Hardware Setup
+![Hardware Setup](images/hardware_setup.jpg)
+
+### Output Display
+![Output Display](images/output_display.jpg)
+
+
 ## 🚀 Applications
 - Colleges and schools
 - Railway stations
