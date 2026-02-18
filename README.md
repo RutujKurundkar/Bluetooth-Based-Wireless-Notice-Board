@@ -1,24 +1,39 @@
-# Bluetooth-Based Wireless Notice Board
+## 📁 Repository Structure
+Bluetooth-Based-Wireless-Notice-Board/
+│
+├── code/
+│   ├── bluetooth_LCD.ino
+│   └── info.md
+│
+├── images/
+│   ├── block_diagram.png
+│   ├── circuit_diagram.png
+│   ├── hardware_setup.jpg
+│   └── output_display.jpg
+│
+├── report/
+│   └── Project_Report.pdf
+│
+└── README.md
 
-This project implements a wireless notice board system using Arduino and an HC-05 Bluetooth module for real-time message display.
+---
 
-## 🔧 Features
-- Wireless message transmission
-- Real-time display on LED matrix
-- Low-cost embedded solution
-- Reduces paper-based notices
+## 🚀 Applications
+- Colleges and schools
+- Railway stations
+- Offices
+- Hospitals
+- Public information boards
 
-## 🛠 Technologies Used
-- Arduino Uno
-- HC-05 Bluetooth Module
-- Embedded C
-- Serial Communication
+---
 
-## 📌 Description
-Authorized users can send messages from a mobile device via Bluetooth.  
-The Arduino receives the data and displays it on an LED matrix and LCD, enabling fast and efficient information sharing.
+## ✨ Future Enhancements
+- Mobile app with authentication
+- Wi-Fi or IoT-based communication
+- Cloud-based notice storage
+- Multi-language display support
 
-## 🚀 Future Enhancements
-- GSM / Wi-Fi integration
-- Mobile application control
-- Cloud-based notice updates
+---
+
+## 👤 Author
+**Rutuj Kurundkar**
